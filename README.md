@@ -1,4 +1,4 @@
-# #alculator
+# Calculator
 
 **Tier:** 1-Beginner
 
@@ -48,3 +48,4 @@ number.
 
 My project : 
 
+![calculator](https://user-images.githubusercontent.com/51519605/235407054-b51c3f5c-158f-4a0c-9a79-fbe82cf575f3.png)
